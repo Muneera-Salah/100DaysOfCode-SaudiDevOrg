@@ -1,0 +1,1 @@
+var c; c = 10; document.write(c);
